@@ -1,0 +1,132 @@
+{
+    "id": "63441af77cb27005f09dd525",
+    "aaId": "63441aed94b0b26083062d8a",
+    "activityBlocked": false,
+    "avatarHash": "f0a2e755ce46c19acf5e41730e3d590e",
+    "avatarUrl": "https://trello-members.s3.amazonaws.com/63441af77cb27005f09dd525/f0a2e755ce46c19acf5e41730e3d590e",
+    "bio": "",
+    "bioData": null,
+    "confirmed": true,
+    "fullName": "Abdullah.muhammad",
+    "idEnterprise": null,
+    "idEnterprisesDeactivated": [],
+    "idMemberReferrer": null,
+    "idPremOrgsAdmin": [],
+    "initials": "A",
+    "memberType": "normal",
+    "nonPublic": {},
+    "nonPublicAvailable": true,
+    "products": [],
+    "url": "https://trello.com/abdullahmuhammad32",
+    "username": "abdullahmuhammad32",
+    "status": "disconnected",
+    "aaBlockSyncUntil": null,
+    "aaEmail": null,
+    "aaEnrolledDate": null,
+    "avatarSource": "none",
+    "credentialsRemovedCount": 0,
+    "domainClaimed": null,
+    "email": "abdullah.muhammad@vodafone.com",
+    "goldSunsetFreeTrialIdOrganization": null,
+    "gravatarHash": "0f12f26dc70dea2ff6b24062714bc665",
+    "idBoards": [
+        "6345deca05ffd50382e79077",
+        "6345ded55ca9170102cfde5d",
+        "6345dedcd3980712c9b28265",
+        "6345e0060d687b029e530a8f",
+        "6345e00d9e46ac0108f200d9"
+    ],
+    "idOrganizations": [
+        "63441bc46aaa320092d30d46"
+    ],
+    "idEnterprisesAdmin": [],
+    "limits": {
+        "boards": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 4500,
+                "warnAt": 3600
+            }
+        },
+        "orgs": {
+            "totalPerMember": {
+                "status": "ok",
+                "disableAt": 850,
+                "warnAt": 680
+            }
+        }
+    },
+    "loginTypes": [
+        "atlassian"
+    ],
+    "marketingOptIn": {
+        "optedIn": true,
+        "date": "2022-10-10T13:17:38.690Z"
+    },
+    "messagesDismissed": [],
+    "oneTimeMessagesDismissed": [
+        "sent-possible-new-signup-event",
+        "team-template-picker-63441bc46aaa320092d30d46"
+    ],
+    "prefs": {
+        "privacy": {
+            "fullName": "public",
+            "avatar": "public"
+        },
+        "sendSummaries": true,
+        "minutesBetweenSummaries": 60,
+        "minutesBeforeDeadlineToNotify": 1440,
+        "colorBlind": false,
+        "locale": "en-GB"
+    },
+    "trophies": [],
+    "uploadedAvatarHash": null,
+    "uploadedAvatarUrl": null,
+    "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+    ],
+    "isAaMastered": true,
+    "ixUpdate": "23",
+    "boards": [
+        {
+            "id": "6345deca05ffd50382e79077",
+            "name": "Abdullah",
+            "closed": false,
+            "idOrganization": "63441bc46aaa320092d30d46",
+            "pinned": false
+        },
+        {
+            "id": "6345ded55ca9170102cfde5d",
+            "name": "Abdullah1",
+            "closed": false,
+            "idOrganization": "63441bc46aaa320092d30d46",
+            "pinned": false
+        },
+        {
+            "id": "6345e0060d687b029e530a8f",
+            "name": "Abdullah2",
+            "closed": false,
+            "idOrganization": "63441bc46aaa320092d30d46",
+            "pinned": false
+        },
+        {
+            "id": "6345e00d9e46ac0108f200d9",
+            "name": "Abdullah33",
+            "closed": false,
+            "idOrganization": "63441bc46aaa320092d30d46",
+            "pinned": false
+        },
+        {
+            "id": "6345dedcd3980712c9b28265",
+            "name": "name-updated",
+            "closed": false,
+            "idOrganization": "63441bc46aaa320092d30d46",
+            "pinned": false
+        }
+    ]
+}
