@@ -1,0 +1,57 @@
+ API: Post /1/boards -- Create a board
+ 
+ Test Case 1: response should be 200 OK
+ Expected Result: 200 OK
+ Actual Result: 200 OK
+ Status: Pass
+ 
+ Test Case 2: response id to be set in newBoard
+ Expected Result: 200 OK
+ Actual Result: 200 OK
+ Status: Pass
+ --------------------------------------------------------------------
+ API: GET 1/members/me/boards -- Get all boards
+ 
+ Test Case 1: to get all boards for that specific user
+ Expected Result: 200 Created
+ Actual Result: 200 OK
+ Status: pass
+ --------------------------------------------------------------------------
+ API: GET 1/boards/{boardId}
+ 
+ Test Case 1: get the details of a specific boardId
+ Expected Result: 200 OK
+ Actual Result: 200 Ok
+ Status: Pass
+ --------------------------------------------------------------------------------
+ API:PUT 1/boards/{boardId}
+ 
+ Test Case 1: Update the details of a specific boardId
+ Expected Result: 200 OK
+ Actual Result: 200 Ok
+ Status: Pass
+ -------------------------------------------------
+ API:GET 1/emoji
+ 
+ Test Case 1: get the list of emoji
+ Expected Result: 200 OK
+ Actual Result: 200 Ok
+ Status: Pass
+ -----------------------------------------------------------------------
+ API: Post 1/lists -- Create a list
+ 
+ Test Case 1: create a list for a specific board response should be 200 OK
+ Expected Result: 200 OK
+ Actual Result: 200 OK
+ Status: Pass
+-----------------------------------------------------------------
+
+ API: Post 1/cards?idList -- Create a card
+ 
+ Test Case 1: create a card for a specific list response should be 200 OK
+ Expected Result: 200 OK
+ Actual Result: 200 OK
+ Status: Pass
+------------------------------------------------------------
+ 
+ 
