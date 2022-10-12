@@ -1,0 +1,60 @@
+ API: GET /api/v1/Authors
+ 
+ Test Case 1: response should be 200 OK
+ Expected Result: 200 OK
+ Actual Result: 200 OK
+ Status: Pass
+ 
+ Test Case 2: response should cotain id,idBook,firstName,lastName
+ Expected Result: 200 OK
+ Actual Result: 200 OK
+ Status: Pass
+ --------------------------------------------------------------------
+ API: POST /api/v1/Authors
+ 
+ Test Case 1: register a new valid Author successfully and response code 201 created
+ Expected Result: 201 Created
+ Actual Result: 200 OK
+ Status: Fail
+ 
+ Test Case 2: firstName should be mandatory
+ Expected Result: 400
+ Actual Result: 400
+ Status: Pass
+ 
+ Test Case 3: LastName should be mandatory
+ Expected Result: 400
+ Actual Result: 400
+ Status: Pass
+ --------------------------------------------------------------------------
+ API: GET /api​/v1​/Authors​/authors​/books​/{idBook}
+ 
+ Test Case 1: searching idBook =5 should return relative data in response body
+ Expected Result: 200 OK
+ Actual Result: 200 Ok
+ Status: Pass
+ 
+ Test Case 2: searching idBook =2 should return relative data in response body
+ Expected Result: 200 OK
+ Actual Result: 200 Ok
+ Status: Pass
+ --------------------------------------------------------------------------------
+ API:PUT /api/v1/Authors/{id}
+ 
+ Test Case 1: Author's data is updated successfully
+ Expected Result: 200 OK
+ Actual Result: 200 Ok
+ Status: Pass
+ -------------------------------------------------
+ API:GET /api/v1/Authors/{id}
+ 
+ Test Case 1: Author's data is changed in GET request
+ Expected Result: 200 OK
+ Actual Result: 200 Ok
+ Status: Pass
+ -----------------------------------------------------------------------
+ 
+ 
+ 
+ 
+ 
